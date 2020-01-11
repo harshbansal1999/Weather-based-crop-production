@@ -1,0 +1,14 @@
+Crop,Season,Rainfall Min, Rainfall Max,Relative Humidity Max,Relative Humidity Max,Min Temp,Max Temp,pH Min,pH Max
+Apple,Perennial,1000,1250,70,90,5,24,5.5,6.5
+Banana,Kharif,1200,2200,75,85,15,35,6.5,7.5
+Barley,Rabi,650,900,70,85,12,15,5.5,7
+Bean,Kharif,300,500,50,60,15,27,6,6.5
+Black Gram,Kharif,700,950,65,80,23,28,6.5,7.8
+Brinjal,Rabi,400,600,75,80,25,27,5.5,6
+Cabbage,Kharif,380,500,85,95,15,21,6,7.5
+Cashewnut,Perennial,1000,2000,85,90,21,30,7.5,8
+Castor,Kharif,500,800,45,65,20,26,5.5,8.5
+Chillies,Rabi,850,1200,50,60,18,26,6.3,7
+Citrus,Perennial,900,1200,75,80,16,20,5.5,7.5
+Coriander,Rabi,750,900,70,85,20,22,28,8
+Cottton,Kharif,700,1300,60,70,21,32,6,6.5
